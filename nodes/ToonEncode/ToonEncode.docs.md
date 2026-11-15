@@ -257,5 +257,5 @@ TOON encoder: v0.4.1
 - **Improved code structure**: Better organized and more maintainable encoder implementation
 - **Enhanced type safety**: Better TypeScript types and type guards
 
-For updates and changelog, see the [GitHub repository](https://github.com/TechupBusiness/n8n-nodes-toon-encode).
+For updates and changelog, see the [GitHub repository](https://github.com/xobit-net/n8n-nodes-toon-encode).
 

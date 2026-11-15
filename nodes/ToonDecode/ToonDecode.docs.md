@@ -427,5 +427,5 @@ if (data.startsWith('users[')) {
 | **Standard** | ⚠️ TOON spec | ✅ RFC 8259 |
 | **Token savings** | ✅ 40-60% | ❌ Baseline |
 
-For updates and changelog, see the [GitHub repository](https://github.com/TechupBusiness/n8n-nodes-toon-encode).
+For updates and changelog, see the [GitHub repository](https://github.com/xobit-net/n8n-nodes-toon-encode).
 

@@ -27,7 +27,7 @@ export class ToonDecode implements INodeType {
 		inputs: ['main'],
 		outputs: ['main'],
 		usableAsTool: true,
-		documentationUrl: 'https://github.com/TechupBusiness/n8n-nodes-toon-encode/blob/main/nodes/ToonDecode/ToonDecode.docs.md',
+		documentationUrl: 'https://github.com/xobit-net/n8n-nodes-toon-encode/blob/main/nodes/ToonDecode/ToonDecode.docs.md',
 		properties: [
 			// TOON Data to Decode
 			{
